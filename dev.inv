@@ -1,2 +1,3 @@
 [webservers]
-65.2.176.85 
+65.2.176.85 ansible_user=ansible ansible_password=ansible
+
